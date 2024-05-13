@@ -1,0 +1,20 @@
+----Project Push on Github using Git----
+----All the command for CMD-------------
+
+1. Create Directory: sudo mkdir <name directory>
+2. Got to Directory: cd <directory>
+3. Create and Edit : sudo nano <filename>
+
+4. After creating a repository in Github and copy the remote repository url.Go to the terminal.
+5. install git package: sudo apt-get install git
+6. initialize folder as repository: sudo git init
+7. Add a Readme file: sudo git add README.md
+8. Add all the files: sudo git add .
+9. Commite the files: sudo git commmit -m "Initial Commit"
+10. Add remote project : sudo git remote add origin <remote repository url>
+11. Verify the remote url: sudo git remote -v
+12. Push the project : sudo git push origin master
+13. Enter Username:
+14. Enter Password:
+
+Go to github and reload the page.
